@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border:1px solid white;
+  width:100%;
+}
+
+body {
+  	background: url(../images/bg_4.jpg) no-repeat fixed;
+}
+h1 {
+   color: white;
+}
+
+h2 {
+   color: white;
+}
+
+p1 {
+  color: gray;
+}
+p2 {
+  color: #fac564;
+}
+p3 {
+  color: white;
+}
+h1 {
+  font-family: "Calibri (Body)", Times, serif;
+  font-size:25px;
+}
+h2 {
+  font-family: "Calibri (Body)", Times, serif;
+  font-size:20px;
+}
+p1, p2, p3{
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 20px;
+}
+</style>
+</head>
+</body>
+</html>
